@@ -1,4 +1,0 @@
-df = pd.concat([df1, df2])
-df['total for each'] = df['number'] * df['their_price']
-df = df.pivot_table(index='title', columns = 'currency', values = 'total for each', aggfunc = 'sum')
-df.stack('currency').sort_index()

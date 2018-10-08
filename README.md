@@ -1,6 +1,6 @@
 # Final
-#****
-## JSON exercise
+****
+JSON exercise
 
 Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
 1. Find the 10 countries with most projects
